@@ -1,6 +1,6 @@
 # odin-recipes
 Hello. This is a project to build a simple recipes website using HTML protocol.\
-I will show basic HTML skills like:\
+I will show basic HTML skills like:
 <ul>
     <li>Setting up the HTML boilerplate</li>
     <li>Implement elements and tags for paragraphs, bold, and italics</li>
